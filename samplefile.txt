@@ -1,2 +1,2 @@
 test file
-testing the sonarqube scanner
+testing the SonarQube scanner
